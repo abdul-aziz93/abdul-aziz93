@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul-Aziz Farah</h1>
 <h3 align="center">A enthusiastic IT professional who is eager to always learn and expand my knowledge</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-aziz93" alt="abdul-aziz93" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [aad](aad)
 
 - 📫 How to reach me **Abdulaziz.farah1993@gmail.com**
